@@ -12,7 +12,7 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 
 
--- Dumping database structure for tbshop
+-- Dumping database structure for tbshop mysql
 CREATE DATABASE IF NOT EXISTS `tbshop` /*!40100 DEFAULT CHARACTER SET utf8 */;
 USE `tbshop`;
 
